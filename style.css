@@ -90,6 +90,7 @@ img {
 .quote-text {
   color: var(--light-gray-quote);
   font-weight: 500;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 .white-bg-quote {
@@ -108,8 +109,8 @@ small {
     margin: auto;
     max-inline-size: 1300px;
     display: grid;
-    grid-template-columns: repeat(4, minmax(19rem, 30rem));
-    grid-template-rows: repeat(2, minmax(12rem, 28rem));
+    grid-template-columns: repeat(4, minmax(25rem, 33rem));
+    grid-template-rows: repeat(2, minmax(13rem, 29rem));
     gap: 2rem;
   }
   article {
