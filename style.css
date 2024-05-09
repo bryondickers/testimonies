@@ -89,17 +89,18 @@ img {
 }
 .quote-text {
   color: var(--light-gray-quote);
+  font-weight: 500;
   line-height: 1.5;
 }
 .white-bg-quote {
   color: var(--dark-grayish-trans);
 }
-footer{
-    display: flex;
-    justify-content: center;
+footer {
+  display: flex;
+  justify-content: center;
 }
-small{
-    text-align: center;
+small {
+  text-align: center;
 }
 
 @media screen and (min-width: 1200px) {
